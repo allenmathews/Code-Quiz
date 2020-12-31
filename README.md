@@ -1,13 +1,13 @@
 # Code-Quiz
 
-This project was designed as a homework assignment for UNH's coding bootcamp. 
+This project was designed as a homework assignment for Monash University coding Bootcamp.
 
 This is a quiz application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct, this then generates a score and appends a final page of results from the user data. 
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-* [GitHub Repository](https://github.com/jamierachael/Code-Quiz)
-* [Deployed GitHub IO](https://jamierachael.github.io/Code-Quiz/)
+* [GitHub Repository](https://github.com/allenmathews/Code-Quiz)
+* [Deployed GitHub IO](https://allenmathews.github.io/Code-Quiz/)
 * [Full Demo Video](https://drive.google.com/file/d/1Vwszd5-rVd5LQKwpRoxpXqu_1eiH3uDI/view)
 
 ![Code-Quiz Demo](assets/demo/gif.gif)
